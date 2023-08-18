@@ -7,7 +7,7 @@
             Console.WriteLine("Hello, World!");
             string mama;
             mama=Console.ReadLine();
-            Console.WriteLine("to co wpsiałaś to: "+mama);
+            Console.WriteLine("to co wpisałaś to: "+mama);
         }
     }
 }
